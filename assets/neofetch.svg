@@ -5,45 +5,45 @@
 .m{font-family:'JBM',monospace;font-size:15px} .b{font-weight:700}
 .cur{animation:blink 1.1s steps(1) infinite} @keyframes blink{50%{opacity:0}}
 </style></defs>
-<rect x=".5" y=".5" width="899" height="471" rx="12" fill="#0d1117" stroke="#30363d"/>
-<path d="M.5 40 V12.5 a12 12 0 0 1 12 -12 H887.5 a12 12 0 0 1 12 12 V40z" fill="#161b22"/>
-<line x1="1" y1="40" x2="899" y2="40" stroke="#30363d"/>
-<circle cx="24" cy="20" r="6" fill="#30363d"/><circle cx="44" cy="20" r="6" fill="#30363d"/><circle cx="64" cy="20" r="6" fill="#58a6ff"/>
-<text x="450.0" y="25" text-anchor="middle" class="m" fill="#8b949e">luke@txst: ~</text>
-<text x="34" y="68" class="m"><tspan fill="#58a6ff" class="b">[luke@txst ~]$</tspan><tspan fill="#c9d1d9"> neofetch</tspan></text>
-<text x="34" y="118" class="m" xml:space="preserve"><tspan fill="#c9d1d9">    .-&quot;-.             .-&quot;-.    </tspan></text>
-<text x="34" y="136" class="m" xml:space="preserve"><tspan fill="#c9d1d9">   / .-. \_.-------._/ .-. \   </tspan></text>
-<text x="34" y="154" class="m" xml:space="preserve"><tspan fill="#c9d1d9">   | \ /  &#x27;         &#x27;  \ / |   </tspan></text>
-<text x="34" y="172" class="m" xml:space="preserve"><tspan fill="#c9d1d9">    \ &#x27;.&#x27;             &#x27;.&#x27; /    </tspan></text>
-<text x="34" y="190" class="m" xml:space="preserve"><tspan fill="#c9d1d9">   /                       \   </tspan></text>
-<text x="34" y="208" class="m" xml:space="preserve"><tspan fill="#c9d1d9">  | </tspan><tspan fill="#30588a">▄▄▄▄▄▄▄▄▄▄</tspan><tspan fill="#c9d1d9">   </tspan><tspan fill="#30588a">▄▄▄▄▄▄▄▄▄▄</tspan><tspan fill="#c9d1d9"> |  </tspan></text>
-<text x="34" y="226" class="m" xml:space="preserve"><tspan fill="#c9d1d9">  | </tspan><tspan fill="#30588a">▐▓▓</tspan><tspan fill="#58a6ff">(</tspan><tspan fill="#79c0ff">●</tspan><tspan fill="#58a6ff">)</tspan><tspan fill="#30588a">▓▓▓▌</tspan><tspan fill="#c9d1d9">   </tspan><tspan fill="#30588a">▐▓▓▓</tspan><tspan fill="#58a6ff">(</tspan><tspan fill="#79c0ff">●</tspan><tspan fill="#58a6ff">)</tspan><tspan fill="#30588a">▓▓▌</tspan><tspan fill="#c9d1d9"> |  </tspan></text>
-<text x="34" y="244" class="m" xml:space="preserve"><tspan fill="#c9d1d9">  | </tspan><tspan fill="#30588a">▀▓▓▓▓▓▓▓▀</tspan><tspan fill="#c9d1d9">     </tspan><tspan fill="#30588a">▀▓▓▓▓▓▓▓▀</tspan><tspan fill="#c9d1d9"> |  </tspan></text>
-<text x="34" y="262" class="m" xml:space="preserve"><tspan fill="#c9d1d9">   \                       /   </tspan></text>
-<text x="34" y="280" class="m" xml:space="preserve"><tspan fill="#c9d1d9">    &#x27;.        </tspan><tspan fill="#79c0ff">▄▄▄</tspan><tspan fill="#c9d1d9">        .&#x27;    </tspan></text>
-<text x="34" y="298" class="m" xml:space="preserve"><tspan fill="#c9d1d9">      &#x27;-.     \_/     .-&#x27;      </tspan></text>
-<text x="34" y="316" class="m" xml:space="preserve"><tspan fill="#c9d1d9">         &#x27;-._______.-&#x27;         </tspan></text>
-<text x="355.0" y="96" class="m b"><tspan fill="#58a6ff">luke</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#58a6ff">txst</tspan></text>
-<text x="355.0" y="117" class="m" fill="#8b949e">---------</text>
-<text x="355.0" y="138" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">OS</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Arch Linux x86_64</tspan></text>
-<text x="355.0" y="159" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">WM</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Hyprland</tspan></text>
-<text x="355.0" y="180" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">Terminal</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">kitty</tspan></text>
-<text x="355.0" y="201" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">Editor</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Neovim</tspan></text>
-<text x="355.0" y="222" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">School</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Texas State University</tspan></text>
-<text x="355.0" y="243" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">Major</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Computer Science, class of &#x27;28</tspan></text>
-<text x="355.0" y="264" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">Languages</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">TypeScript, C++, Python</tspan></text>
-<text x="355.0" y="285" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">Stack</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Next.js, React, Svelte, Expo</tspan></text>
-<text x="355.0" y="306" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">Games</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Rivaldle, SoulsDoku, CSMdle</tspan></text>
-<text x="355.0" y="327" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">Traffic</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">400K+ pageviews / month</tspan></text>
-<text x="355.0" y="348" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">Building</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Locturne (iOS)</tspan></text>
-<text x="355.0" y="369" class="m" xml:space="preserve"><tspan class="b" fill="#58a6ff">GitHub</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">github.com/llyons151</tspan></text>
-<rect x="355.0" y="398" width="27" height="17" fill="#0d2847"/>
-<rect x="382.0" y="398" width="27" height="17" fill="#0f3a6b"/>
-<rect x="409.0" y="398" width="27" height="17" fill="#1f6feb"/>
-<rect x="436.0" y="398" width="27" height="17" fill="#388bfd"/>
-<rect x="463.0" y="398" width="27" height="17" fill="#58a6ff"/>
-<rect x="490.0" y="398" width="27" height="17" fill="#79c0ff"/>
-<rect x="517.0" y="398" width="27" height="17" fill="#a5d6ff"/>
-<rect x="544.0" y="398" width="27" height="17" fill="#c9d1d9"/>
-<text x="34" y="450" class="m"><tspan fill="#58a6ff" class="b">[luke@txst ~]$</tspan><tspan class="cur" fill="#c9d1d9"> █</tspan></text>
+<rect x=".5" y=".5" width="899" height="471" rx="12" fill="#1E2227" stroke="#495462"/>
+<path d="M.5 40 V12.5 a12 12 0 0 1 12 -12 H887.5 a12 12 0 0 1 12 12 V40z" fill="#252B33"/>
+<line x1="1" y1="40" x2="899" y2="40" stroke="#495462"/>
+<circle cx="24" cy="20" r="6" fill="#CC7777"/><circle cx="44" cy="20" r="6" fill="#D6BD82"/><circle cx="64" cy="20" r="6" fill="#A8BE80"/>
+<text x="450.0" y="25" text-anchor="middle" class="m" fill="#88929F">luke@txst: ~</text>
+<text x="34" y="68" class="m"><tspan fill="#81A2BE" class="b">[luke@txst ~]$</tspan><tspan fill="#D2D5DC"> neofetch</tspan></text>
+<text x="34" y="118" class="m" xml:space="preserve"><tspan fill="#D2D5DC">    .-&quot;-.             .-&quot;-.    </tspan></text>
+<text x="34" y="136" class="m" xml:space="preserve"><tspan fill="#D2D5DC">   / .-. \_.-------._/ .-. \   </tspan></text>
+<text x="34" y="154" class="m" xml:space="preserve"><tspan fill="#D2D5DC">   | \ /  &#x27;         &#x27;  \ / |   </tspan></text>
+<text x="34" y="172" class="m" xml:space="preserve"><tspan fill="#D2D5DC">    \ &#x27;.&#x27;             &#x27;.&#x27; /    </tspan></text>
+<text x="34" y="190" class="m" xml:space="preserve"><tspan fill="#D2D5DC">   /                       \   </tspan></text>
+<text x="34" y="208" class="m" xml:space="preserve"><tspan fill="#D2D5DC">  | </tspan><tspan fill="#405365">▄▄▄▄▄▄▄▄▄▄</tspan><tspan fill="#D2D5DC">   </tspan><tspan fill="#405365">▄▄▄▄▄▄▄▄▄▄</tspan><tspan fill="#D2D5DC"> |  </tspan></text>
+<text x="34" y="226" class="m" xml:space="preserve"><tspan fill="#D2D5DC">  | </tspan><tspan fill="#405365">▐▓▓</tspan><tspan fill="#81A2BE">(</tspan><tspan fill="#D6BD82">●</tspan><tspan fill="#81A2BE">)</tspan><tspan fill="#405365">▓▓▓▌</tspan><tspan fill="#D2D5DC">   </tspan><tspan fill="#405365">▐▓▓▓</tspan><tspan fill="#81A2BE">(</tspan><tspan fill="#D6BD82">●</tspan><tspan fill="#81A2BE">)</tspan><tspan fill="#405365">▓▓▌</tspan><tspan fill="#D2D5DC"> |  </tspan></text>
+<text x="34" y="244" class="m" xml:space="preserve"><tspan fill="#D2D5DC">  | </tspan><tspan fill="#405365">▀▓▓▓▓▓▓▓▀</tspan><tspan fill="#D2D5DC">     </tspan><tspan fill="#405365">▀▓▓▓▓▓▓▓▀</tspan><tspan fill="#D2D5DC"> |  </tspan></text>
+<text x="34" y="262" class="m" xml:space="preserve"><tspan fill="#D2D5DC">   \                       /   </tspan></text>
+<text x="34" y="280" class="m" xml:space="preserve"><tspan fill="#D2D5DC">    &#x27;.        </tspan><tspan fill="#CC7777">▄▄▄</tspan><tspan fill="#D2D5DC">        .&#x27;    </tspan></text>
+<text x="34" y="298" class="m" xml:space="preserve"><tspan fill="#D2D5DC">      &#x27;-.     \_/     .-&#x27;      </tspan></text>
+<text x="34" y="316" class="m" xml:space="preserve"><tspan fill="#D2D5DC">         &#x27;-._______.-&#x27;         </tspan></text>
+<text x="355.0" y="96" class="m b"><tspan fill="#81A2BE">luke</tspan><tspan fill="#D2D5DC">@</tspan><tspan fill="#81A2BE">txst</tspan></text>
+<text x="355.0" y="117" class="m" fill="#88929F">---------</text>
+<text x="355.0" y="138" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">OS</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">Arch Linux x86_64</tspan></text>
+<text x="355.0" y="159" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">WM</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">Hyprland</tspan></text>
+<text x="355.0" y="180" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">Terminal</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">kitty</tspan></text>
+<text x="355.0" y="201" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">Editor</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">Neovim</tspan></text>
+<text x="355.0" y="222" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">School</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">Texas State University</tspan></text>
+<text x="355.0" y="243" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">Major</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">Computer Science, class of &#x27;28</tspan></text>
+<text x="355.0" y="264" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">Languages</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">TypeScript, C++, Python</tspan></text>
+<text x="355.0" y="285" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">Stack</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">Next.js, React, Svelte, Expo</tspan></text>
+<text x="355.0" y="306" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">Games</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">Rivaldle, SoulsDoku, CSMdle</tspan></text>
+<text x="355.0" y="327" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">Traffic</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">400K+ pageviews / month</tspan></text>
+<text x="355.0" y="348" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">Building</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">Locturne (iOS)</tspan></text>
+<text x="355.0" y="369" class="m" xml:space="preserve"><tspan class="b" fill="#83BECF">GitHub</tspan><tspan fill="#88929F">: </tspan><tspan fill="#D2D5DC">github.com/llyons151</tspan></text>
+<rect x="355.0" y="398" width="27" height="17" fill="#1E2227"/>
+<rect x="382.0" y="398" width="27" height="17" fill="#CC7777"/>
+<rect x="409.0" y="398" width="27" height="17" fill="#A8BE80"/>
+<rect x="436.0" y="398" width="27" height="17" fill="#D6BD82"/>
+<rect x="463.0" y="398" width="27" height="17" fill="#81A2BE"/>
+<rect x="490.0" y="398" width="27" height="17" fill="#B294BB"/>
+<rect x="517.0" y="398" width="27" height="17" fill="#83BECF"/>
+<rect x="544.0" y="398" width="27" height="17" fill="#D2D5DC"/>
+<text x="34" y="450" class="m"><tspan fill="#81A2BE" class="b">[luke@txst ~]$</tspan><tspan class="cur" fill="#D2D5DC"> █</tspan></text>
 </svg>

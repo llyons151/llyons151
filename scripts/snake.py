@@ -33,8 +33,9 @@ pct = lambda t: f"{100 * t / T:.3f}%"
 pos = lambda c: (PAD + c[0] * PITCH, PAD + c[1] * PITCH)
 
 THEMES = {
-    "snake-dark.svg": dict(levels=["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"], snake="#58a6ff", head="#a5d6ff"),
-    "snake.svg": dict(levels=["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"], snake="#1f6feb", head="#0a3069"),
+    # Greens and blues from the Neovim "codex" colorscheme
+    "snake-dark.svg": dict(levels=["#252B33", "#36432F", "#56683F", "#7E955E", "#A8BE80"], snake="#81A2BE", head="#83BECF"),
+    "snake.svg": dict(levels=["#ebedf0", "#DCE6CB", "#BCCF9C", "#A8BE80", "#7A8F57"], snake="#5C708F", head="#304A6E"),
 }
 
 move_kf = " ".join(f"{pct(i * STEP)}{{transform:translate({pos(c)[0]}px,{pos(c)[1]}px)}}" for i, c in enumerate(path))
