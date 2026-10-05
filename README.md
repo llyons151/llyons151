@@ -35,7 +35,7 @@ A network of daily guessing games, played by thousands of people every day.
 <p align="center"><img src="assets/h-armaments.svg" width="100%" alt="Armaments" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,nodejs,supabase,vercel,cpp,python,cs,opengl,lua,arch,neovim,git&perline=9&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,nodejs,supabase,vercel,cpp,python,cs,lua,arch,neovim,git&perline=9&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center"><img src="assets/h-runes.svg" width="100%" alt="Runes Acquired" /></p>
