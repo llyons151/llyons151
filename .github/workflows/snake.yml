@@ -17,9 +17,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # SNAKE_TOKEN (a personal token) lets the grid include private-repo contributions
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark&color_snake=#a78bfa
+            dist/snake.svg?color_snake=#b8892a&color_dots=#ebedf0,#f1e3b4,#e0c066,#c9a227,#8a6a1c
+            dist/snake-dark.svg?palette=github-dark&color_snake=#f0a830&color_dots=#161b22,#3d2e0a,#6b4f12,#a67c1a,#e6b422
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
