@@ -69,7 +69,7 @@ save("banner.svg", f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} 
 <g stroke="{GOLD}" stroke-width="1" opacity=".7">
   <line x1="330" y1="222" x2="580" y2="222"/><line x1="620" y1="222" x2="870" y2="222"/></g>
 <path d="M600 215 l7 7 -7 7 -7 -7z" fill="{GOLD}"/>
-<text x="603" y="262" text-anchor="middle" class="s">COMPUTER SCIENCE · TEXAS STATE · MAKER OF DAILY GAMES</text>
+<text x="603" y="262" text-anchor="middle" class="s">COMPUTER SCIENCE · TEXAS STATE · I BUILD THINGS FOR PEOPLE</text>
 </svg>""")
 
 
@@ -124,7 +124,7 @@ INFO = [
     ("Editor", "Neovim"),
     ("School", "Texas State University"),
     ("Major", "Computer Science, class of '28"),
-    ("Languages", "TypeScript, C++, Python, Rust"),
+    ("Languages", "TypeScript, C++, Python"),
     ("Stack", "Next.js, React, Svelte, Expo"),
     ("Games", "Rivaldle, SoulsDoku, CSMdle"),
     ("Traffic", "400K+ pageviews / month"),
