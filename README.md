@@ -40,5 +40,5 @@ A network of daily guessing games, played by thousands of people every day.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llyons151/llyons151/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llyons151/llyons151/output/snake.svg" />
-  <img alt="Snake devouring the contribution graph" src="https://raw.githubusercontent.com/llyons151/llyons151/output/snake-dark.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/llyons151/llyons151/output/snake-dark.svg" />
 </picture>
